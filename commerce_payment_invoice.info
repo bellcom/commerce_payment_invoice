@@ -1,0 +1,6 @@
+name = Invoice Payment Method 
+description = Provides an payment method to be used Invoices.
+package = Commerce
+dependencies[] = commerce
+dependencies[] = commerce_payment
+core = 7.x
